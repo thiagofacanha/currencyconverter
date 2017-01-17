@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="main_screen_title_text_size">26sp</dimen>
+    <dimen name="quotation_screen_value_text_size">26sp</dimen>
+    <dimen name="quotation_screen_value_margin_top">20dp</dimen>
+    <dimen name="quotation_screen_value_to_convert_margin_left">10dp</dimen>
+    <dimen name="quotation_screen_value_to_convert_text_size">26sp</dimen>
+    <dimen name="quotation_screen_currencies_layout_margin_top">15dp</dimen>
+    <dimen name="quotation_screen_btn_confirm_margin_top">5dp</dimen>
+    <dimen name="quotation_screen_result_layout_margin_top">20dp</dimen>
+    <dimen name="quotation_screen_result_text_size">26sp</dimen>
+    <dimen name="quotation_screen_result_value_margin_left">20dp</dimen>
+    <dimen name="quotation_screen_result_value_text_size">26sp</dimen>
+    <dimen name="quotation_screen_spinner_min_width">100dp</dimen>
+</resources>

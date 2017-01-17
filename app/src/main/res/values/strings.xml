@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="quotation_screen_converter_button">Get Result!</string>
+    <string name="quotation_screen_converter_value">Value :</string>
+    <string name="quotation_screen_default_value">1</string>
+    <string name="quotation_screen_from">FROM</string>
+    <string name="quotation_screen_to">TO</string>
+    <string name="quotation_screen_result">Result:</string>
+    <string name="quotation_screen_msg_no_network">You need a internet connection to use this application.Please check you network service.</string>
+    <string name="quotation_screen_msg_inser_value">Please insert a value to convert.</string>
+    <string name="quotation_screen_msg_same_currency">Please choose different currencies.</string>
+
+    <string-array name="currencies_array">
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
